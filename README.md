@@ -1,6 +1,6 @@
 # Nontuthuzelo Mtolo - Developer Portfolio
 
-A modern, responsive portfolio website showcasing frontend development skills and projects. Built with clean HTML, CSS, and vanilla JavaScript.
+A modern, responsive [portfolio website](https://nontuthuzelo-mtolo-portfolio.netlify.app/) showcasing frontend development skills and projects. Built with clean HTML, CSS, and vanilla JavaScript.
 
 ## 🌟 Features
 
